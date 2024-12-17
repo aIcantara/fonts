@@ -1,19 +1,19 @@
 @font-face {
-    font-family: "GothamPro Black Italic";
+    font-family: "Gotham Pro BlackItalic";
     src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro-Black_Italic.ttf") format("truetype");
     font-weight: 900;
     font-style: italic
 }
 
 @font-face {
-    font-family: "GothamPro Light Italic";
+    font-family: "Gotham Pro LightItalic";
     src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro-Light_Italic.ttf") format("truetype");
     font-weight: 300;
     font-style: italic
 }
 
 @font-face {
-    font-family: "GothamPro Black";
+    font-family: "Gotham Pro Black";
     src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro-Black.ttf") format("truetype");
     font-weight: 900
 }
