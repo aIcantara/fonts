@@ -20,8 +20,8 @@
 
 @font-face {
     font-family: SFRounded;
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFRounded-Medium.woff2") format("woff2");
-    font-weight: 400;
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFRounded-Medium.otf") format("opentype");
+    font-weight: 500;
     font-style: normal;
 }
 
