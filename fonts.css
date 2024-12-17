@@ -1,47 +1,98 @@
 @font-face {
-    font-family: "GothamPro Black Italic";
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro-Black_Italic.ttf") format("truetype");
-    font-weight: 900;
-    font-style: italic
-}
-
-@font-face {
-    font-family: "GothamPro Light Italic";
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro-Light_Italic.ttf") format("truetype");
+    font-family: 'GothamPro Light';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_light.ttf') format('truetype');
     font-weight: 300;
-    font-style: italic
+    font-style: normal;
 }
 
 @font-face {
-    font-family: "GothamPro Black";
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro-Black.ttf") format("truetype");
-    font-weight: 900
+    font-family: 'GothamPro Light Italic';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_lightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
 }
+
+@font-face {
+    font-family: 'GothamPro Regular';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro Italic';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothamPro Medium';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro Medium Italic';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_mediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothamPro Bold';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro Bold Italic';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_bolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothamPro Black';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro Black Italic';
+    src: url('https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/GothamPro/gothampro_blackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
 
 @font-face {
     font-family: SFRounded;
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFRounded-Medium.otf") format("opentype");
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFPro/SFRounded-Medium.otf") format("opentype");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: SF Pro Display;
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFProDisplay-Medium.ttf") format("truetype");
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFPro/SFProDisplay-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: SF Pro Display;
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFProDisplay-Semibold.ttf") format("truetype");
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFPro/SFProDisplay-Semibold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal
 }
 
 @font-face {
     font-family: SF Pro Display;
-    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFProDisplay-Regular.ttf") format("truetype");
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/SFPro/SFProDisplay-Regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal
 }
