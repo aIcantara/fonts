@@ -137,15 +137,24 @@
 }
 
 @font-face {
-	font-family: 'Akrobat';
-	font-style: normal;
-	font-weight: 400;
-	src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/Akrobat/Akrobat-Regular.otf") format('opentype')
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/Akrobat/Akrobat-Regular.otf") format('opentype')
 }
 
 @font-face {
-	font-family: 'PF Din Display';
-	font-style: normal;
-	font-weight: 400;
-	src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/PF Din Display/PFDinDisplayPro-Regular.ttf") format('truetype')
+    font-family: 'PF Din Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/PF Din Display/PFDinDisplayPro-Regular.ttf") format('truetype')
+}
+
+
+/* Bahnschrift */
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url("https://raw.githubusercontent.com/aIcantara/fonts/refs/heads/main/Bahnschrift/Bahnschrift.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal
 }
